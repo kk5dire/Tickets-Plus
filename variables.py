@@ -11,7 +11,8 @@ import discord
 from discord.ext import commands
 
 #v[major].[minor].[release].[build]
-VERSION = "v0.0.2.1"
+#[major] and [minor] version changes may break backwards compatibility
+VERSION = "v0.1.0.0"
 
 
 intents = discord.Intents.default()
